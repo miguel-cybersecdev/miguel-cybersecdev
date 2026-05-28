@@ -18,7 +18,7 @@
 
 ## Sobre Mim
 
-🎓 Atualmente focado no desenvolvimento de aplicações e soluções voltadas para tecnologia e segurança da informação.
+🎓 Técnólogo formado em Defesa Cibernética pela FATEC Jundiaí e Técnico formado em Desenvolvimento de Sistemas pela ETEC Dr. Emílio Hernandez Aguilar. atualmente estou focado no desenvolvimento de aplicações e soluções voltadas para tecnologia e segurança da informação.
 
 🚀 Buscando oportunidades como:
 - Desenvolvedor Back-End Júnior
