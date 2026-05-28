@@ -7,6 +7,10 @@
 </h3>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=30&center=true&vCenter=true&width=1000&lines=Curioso+por+Tecnologia;Python+%7C+Cybersecurity+%7C+Back-End;Sempre+aprendendo+algo+novo;Futuro+DPO+e+Especialista+em+Segurança+da+Informação" />
 </p>
 
@@ -58,18 +62,6 @@
 
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624" />
 </p>
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguel-cybersecdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguel-cybersecdev&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
 
 ---
 
