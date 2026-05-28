@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
 🎓 Atualmente focado no desenvolvimento de aplicações e soluções voltadas para tecnologia e segurança da informação.
 
